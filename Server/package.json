@@ -20,7 +20,7 @@
     "mockjs": "^1.0.1-beta3",
     "moment": "^2.17.1",
     "mongoomise": "^0.0.8",
-    "mongoose": "^4.7.6",
+    "mongoose": "^5.13.9",
     "morgan": "~1.7.0",
     "multiparty": "^4.1.2",
     "node-schedule": "^1.2.0",
