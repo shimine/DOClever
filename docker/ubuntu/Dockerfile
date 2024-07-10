@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 MAINTAINER liwei liwei@wayearn.com
 
 # only for Chinese Developers
