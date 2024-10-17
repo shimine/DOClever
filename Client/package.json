@@ -27,13 +27,13 @@
     "markdown": "^0.5.0",
     "mockjs": "^1.0.1-beta3",
     "uuid": "^3.1.0",
-    "vue": "2.4.2",
+    "vue": "3.0.0",
     "vue-html-loader": "^1.2.4",
     "vue-loader": "^11.3.4",
     "vue-resource": "1.2.0",
     "vue-template-compiler": "2.4.2",
     "vuex": "^2.3.1",
-    "webpack": "^2.2.1"
+    "webpack": "^5.0.0"
   },
   "devDependencies": {
     "webpack-bundle-analyzer": "^2.9.0"
